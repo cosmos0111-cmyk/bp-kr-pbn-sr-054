@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[클럽]]></title>
+  <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054</link>
+  <description><![CDATA[클럽 - 을지로 클럽 정보 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 01:34:04 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 01:34:04 GMT</lastBuildDate>
+  <atom:link href="https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054/posts/field_note-002-1fqbgtf.html</link>
+      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054/posts/field_note-002-1fqbgtf.html</guid>
+      <description><![CDATA[### 포스트 DNA 1bd07a49 실패의 교훈: Apache Superset RC3 빌드 삭제된 취약점 분석 관점: 보안 연구원 시점에서 CVSS 9.8이지만 노트에 없는 silent patch의 진짜 취약점을 중심으로 서사(narrative)를 전개합니다. 구조:]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[을지로 클럽 정보 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054/posts/review-001-1fqbgtf.html</link>
+      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-054/posts/review-001-1fqbgtf.html</guid>
+      <description><![CDATA[### 포스트 DNA 52d6551e #### 제목: 창작한 제목: "IPS 패널 로트 볼드라이드와 제조사 무상교체 조건: 일본 내수용과 글로벌 버전 콘솔의 부품 호환성 차이" 아, 진짜... IPS 패널 로트 별빛 현상을 통해 특정 모델의 결함을 식별하고, 이를 해결]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
